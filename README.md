@@ -18,9 +18,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/user-attachments/assets/74167206-4ee1-4534-b268-e0915a0555ce)
 ![Screenshot 2](https://github.com/user-attachments/assets/2f8882fa-2aff-4a60-a3e1-7b568705e4b7)
 ![Screenshot 3](https://github.com/user-attachments/assets/eecdca0f-d8ee-40ec-acc1-d24d48b79869)
+![Screenshot 1](https://github.com/user-attachments/assets/74167206-4ee1-4534-b268-e0915a0555ce)
+
 
 ## Getting Started
 
